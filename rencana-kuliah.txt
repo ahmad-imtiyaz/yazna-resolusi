@@ -2,7 +2,9 @@ RENCANA KULIAH
 -Belajar
 *satu
 *dua
+*tiga
 -Belajar B
 -Belajar Belajar
 -Belajar Belajar Belajar
 -Belajar Belajar Belajar Belajar
+-Belajar Belajar Belajar Belajar Belajar
