@@ -2,3 +2,5 @@
 - Melanjutkan resolusi 2024
 - Belajar Machine Learning
 - Belajat Laravel 12
+- Membuat Project kecil-kecilan
+- Rapihin Linkedin
