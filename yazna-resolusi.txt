@@ -4,3 +4,4 @@
 - Belajat Laravel 12
 - Rapihin Linkedin
 - Buat CV
+- Belajar Tailwind
