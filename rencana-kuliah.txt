@@ -3,7 +3,5 @@ RENCANA KULIAH
 *satu
 *dua
 *tiga
-*Empat
-
 
 
